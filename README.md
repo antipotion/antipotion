@@ -14,11 +14,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Software Engineer focused on Angular, TypeScript, and developer tooling.
+# Software Engineer focused on Angular, TypeScript, and developer tooling.
 
 Interested in application architecture, reactive systems, and maintainable development workflows.
 
-### Tech stack:
+## Relevant links:
+- Portfolio: https://antipotion.com
+- Project: https://taskgate.antipotion.com
+
+## Tech stack:
 
 - Angular
 - Typescript
