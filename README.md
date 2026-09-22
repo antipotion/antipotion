@@ -14,22 +14,46 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Software Engineer focused on Angular, TypeScript, and developer tooling.
+# Product Engineer (Software) Full Stack
 
-Interested in application architecture, reactive systems, and maintainable development workflows.
+Building full-stack software applications across the frontend, backend, and systems layers, with an emphasis on architecture and long-term maintainability.
 
 ## Relevant links:
-- Portfolio: https://antipotion.com
+- Website: https://antipotion.com
 - Project: https://taskgate.antipotion.com
 
 ## Tech stack:
 
+### Frontend:
 - Angular
-- Typescript
+- Astro
+- React
+- TypeScript
 - RxJS
-- Javascript
+- TailwindCSS
+- SCSS
 - HTML
 - CSS
-- SCSS
-- TailwindCSS
+- JavaScript
+
+### Backend:
+- Firebase
+- Node.js
+- Cloudflare
+- C#
+- .NET
+- ASP.NET Core
+- Python
+
+### System
 - Rust
+
+### Design
+- Figma
+- Illustrator
+
+### Tooling
+- Git
+- Linux
+- Github
+
