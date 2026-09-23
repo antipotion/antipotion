@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Product Engineer (Software) Full Stack
+# Product Engineer | Software | Full Stack
 
-Building full-stack software applications across the frontend, backend, and systems layers, with an emphasis on architecture and long-term maintainability.
+Building full-stack software applications across the frontend, backend, and systems layers, with an emphasis on architecture, maintainability, and product development. Translating ambiguous requirements into well-structured technical solutions and user-facing features.
 
 ## Relevant links:
 - Website: https://antipotion.com
