@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # Product Engineer | Software | Full Stack
 
-Building full-stack software applications, with 2 years of experience, across the frontend, backend, and systems layers, with an emphasis on architecture, maintainability, and product development. Translating ambiguous requirements into well-structured technical solutions and user-facing features.
+Building full-stack software applications, with 2+ years of experience, across the frontend, backend, and systems layers, with an emphasis on architecture, maintainability, and product development. Translating ambiguous requirements into well-structured technical solutions and user-facing features.
 
 ## Relevant links:
 - Website: https://antipotion.com
